@@ -1,0 +1,77 @@
+* {
+    font-family: 'montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+header {
+    margin: 44px 0 144px 76px;
+}
+
+.link-header {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.Login-button {
+    Width: 130px;
+    Height: 41px;
+    background-color: #6FBF44;
+    border: #4CB538;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+.login {
+    font-Weight: 500px;
+    font-size: 16px;
+    Line-height: 24px;
+    color: floralwhite;
+}
+
+.Logo-image {
+    height: 500px;
+    width: 568px;
+    left: 125px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    color: #515151;
+}
+
+p {
+    width: 515px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    color: #4B505A;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+.Learn_more {
+    Width: 239px;
+    Height: 64px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #6FBF44;
+}
